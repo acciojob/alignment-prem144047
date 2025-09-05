@@ -1,11 +1,11 @@
 table.middle {
-	/* border: 1px solid black; */
+	border: 1px solid black;
 	border-spacing: 1px;
 	width: 90%;
 	margin: 20px auto;
 }
 table.middle td, table.middle th {
-	border: 1px solid gray ;
+	border: 1px solid black ;
 	padding: 1px;
 }
 .center {
@@ -33,5 +33,4 @@ body {
 }
 #table-2 td{
 	padding:5px;
-	border-color:black;
 }
